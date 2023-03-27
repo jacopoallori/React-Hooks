@@ -1,10 +1,10 @@
-import Appuntamenti from "./Appuntamenti/appuntamenti";
+import Vacanze from "./3-Vacanze/vacanze";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <Appuntamenti></Appuntamenti>
+          <Vacanze/>
       </header>
     </div>
   );
