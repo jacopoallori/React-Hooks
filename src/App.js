@@ -1,13 +1,13 @@
-import Slider from "./4-Slider/slider";
+import SliderApp from "./4-Slider/sliderApp";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <Slider/>
+          <SliderApp/>
       </header>
     </div>
   );
 }
 
-export default Slider;
+export default App;
