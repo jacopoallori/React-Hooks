@@ -1,11 +1,9 @@
-import SliderApp from "./4-Slider/sliderApp";
+import Gelateria from "./5-Gelateria/gelateria";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-          <SliderApp/>
-      </header>
+          <Gelateria/>
     </div>
   );
 }
