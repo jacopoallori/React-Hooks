@@ -1,9 +1,9 @@
-import Gelateria from "./5-Gelateria/gelateria";
+import ColorGradingApp from "./6-Color-Grading/color-grading";
 
 function App() {
   return (
     <div className="App">
-          <Gelateria/>
+          <ColorGradingApp/>
     </div>
   );
 }

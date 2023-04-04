@@ -1,5 +1,4 @@
-import Menu from "./components";
-
+import {Menu} from "./components";
 import './gelateria.css';
 
 const Gelateria = () =>{

@@ -7,12 +7,13 @@ import App from './App';
 // React icons
 // axios
 // uuid
+// values.js
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <App/>
   </React.StrictMode>
 );
 
