@@ -8,7 +8,7 @@ import App from './App';
 // axios
 // uuid
 // values.js
-
+//Style-componentes
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

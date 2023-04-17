@@ -1,9 +1,12 @@
-import Navbar from "./7-NavBar/navBar";
+import IndexSideBar from "./8-SideBar/indexSidebar";
+import { AppProvider } from "./8-SideBar/context";
 
 function App() {
   return (
     <div className="App">
-          <Navbar/>
+      <AppProvider>
+          <IndexSideBar/>
+      </AppProvider>
     </div>
   );
 }
